@@ -1,1 +1,1 @@
-# SomosMugiwara
+# Scripts and Styles
